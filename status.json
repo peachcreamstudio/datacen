@@ -1,0 +1,90 @@
+[{
+    "id.photo.effect.tiktok": {
+      "am_ba": "",
+      "am_in": "",
+      "am_na": "",
+
+      "is_id": "1996b600d",
+
+      "interval": 45000,
+
+      "ads_list": ["is"]
+    },
+     "filters.selfie.camera.selfie": {
+      "am_ba": "",
+      "am_in": "",
+      "am_na": "",
+
+      "is_id": "1996b9995",
+
+      "interval": 45000,
+
+      "ads_list": ["is"]
+    },
+    "body.shape.beauty.bk": {
+      "am_ba": "ca-app-pub-6615831081036167/9501613701",
+      "am_in": "ca-app-pub-6615831081036167/8443682906",
+      "am_na": "ca-app-pub-6615831081036167/7593635669",
+
+      "app_id": "ca-app-pub-6615831081036167~4950487425",
+
+      "is_id": "20278c335",
+
+      "interval": 55000,
+
+      "ads_list": ["am", "is"]
+    },
+    "body.shape.beauty": {
+      "am_ba": "ca-app-pub-6615831081036167/9501613701",
+      "am_in": "ca-app-pub-6615831081036167/8443682906",
+      "am_na": "ca-app-pub-6615831081036167/7593635669",
+
+      "app_id": "ca-app-pub-6615831081036167~4950487425",
+
+      "is_id": "20278c335",
+
+      "interval": 45000,
+
+      "ads_list": ["am", "is"]
+    },
+    "body.shape.beauty.mobel": {
+      "am_ba": "ca-app-pub-6615831081036167/4356441110",
+      "am_in": "ca-app-pub-6615831081036167/7659862505",
+      "am_na": "",
+
+      "app_id": "ca-app-pub-6615831081036167~4950487425",
+
+      "is_id": "20278c335",
+
+      "interval": 45000,
+
+      "ads_list": ["am", "is"]
+    },
+    "renaissance.filter.mouth.portrait": {
+      "am_ba": "",
+      "am_in": "ca-app-pub-6451369447612731/7821630796",
+      "am_na": "",
+
+      "app_id": "ca-app-pub-6451369447612731~2080287322",
+
+      "is_id": "1b8c6553d",
+
+      "interval": 45000,
+
+      "ads_list": ["am", "is"]
+    },
+    "crying.filter.camera.face": {
+       "am_ba": "",
+       "am_in": "",
+       "am_na": "",
+
+        "is_id": "1b8c6c84d",
+
+       "interval": 61000,
+
+       "ads_list": ["is"]
+    },
+    "common": {
+      
+    }
+}]
