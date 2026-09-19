@@ -45,7 +45,20 @@
 
       "interval": 45000,
 
-      "ads_list": ["am", "is"]
+      "ads_list": ["am", "is"],
+
+      "status":2,
+      "version_code":5,
+      "update_info":{
+        "update_title":"A new version is available",
+        "button_name":"Update app",
+        "des":"Body Shape is a wonderful face slimming photo editor. Perfect Me is a great photo editor that you can use to retouch your face or body.",
+        "package":"body.shape.beauty",
+        "update_button":"Update now",
+        "icon":"https://raw.githubusercontent.com/peachcreamstudio/datacen/refs/heads/master/iconapp.json",
+        "app_name":"Body Shape & Beauty"
+      }
+
     },
     "body.shape.beauty.mobel": {
       "am_ba": "ca-app-pub-3940256099942544/6300978111",
